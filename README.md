@@ -28,7 +28,7 @@ Usage
 
 Run the bot with the command:
 
-python3 main.py
+	python3 main.py
 
 The bot supports the following commands:
 
@@ -39,8 +39,8 @@ The bot supports the following commands:
 
 Example interaction:
 
-User: What is the weather?
-Bot: Weather: clear sky, Temperature: 25°C, Humidity: 60%
+	User: What is the weather?
+	Bot: Weather: clear sky, Temperature: 25°C, Humidity: 60%
 
 Requirements
 1/ Python 3.x
