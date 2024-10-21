@@ -49,7 +49,9 @@ Example interaction:
 	Bot: Weather: clear sky, Temperature: 25°C, Humidity: 60%
 
 Requirements
+
 1/ Python 3.x
+
 2/ Required libraries are listed in Libraries.txt
 
 License
