@@ -34,9 +34,13 @@ Run the bot with the command:
 
 The bot supports the following commands:
 
+
 1/ weather — provides current weather in Paphos.
+
 2/ time — shows the current time in Paphos.
+
 3/ news — fetches the latest news from the Paphos Life website.
+
 4/ attractions — gives information about top attractions in Paphos.
 
 Example interaction:
