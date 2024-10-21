@@ -1,5 +1,7 @@
 PAPHOS CITY BOT
+
 Description
+
 This bot provides information about the city of Paphos using APIs from OpenWeather, OpenAI, Bing, and web scraping from the Paphos Life website. It can provide weather updates, news, information on top attractions, and engage in a conversation in English.
 
 Installation
